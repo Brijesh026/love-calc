@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/love-calc/static/js/app.86961ee8.chunk.js",
+    "app.js.map": "/love-calc/static/js/app.86961ee8.chunk.js.map",
+    "runtime~app.js": "/love-calc/static/js/runtime~app.1619d89b.js",
+    "runtime~app.js.map": "/love-calc/static/js/runtime~app.1619d89b.js.map",
+    "static/js/2.ad4f62d2.chunk.js": "/love-calc/static/js/2.ad4f62d2.chunk.js",
+    "static/js/2.ad4f62d2.chunk.js.map": "/love-calc/static/js/2.ad4f62d2.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/love-calc/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/love-calc/favicon-16.png",
+    "favicon-32.png": "/love-calc/favicon-32.png",
+    "favicon.ico": "/love-calc/favicon.ico",
+    "index.html": "/love-calc/index.html",
+    "manifest.json": "/love-calc/manifest.json",
+    "serve.json": "/love-calc/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1619d89b.js",
+    "static/js/2.ad4f62d2.chunk.js",
+    "static/js/app.86961ee8.chunk.js"
+  ]
+}
